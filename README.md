@@ -110,9 +110,9 @@ Prueba el sistema en vivo:
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/hospital-management-system.git
+git clone https://github.com/isairey/SysGestionHospital.git
 Instalar dependencias:
-cd hospital-management-system
+cd SysGestionHospital
 npm install
 Ejecutar el servidor:
 npm run dev
