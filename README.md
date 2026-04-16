@@ -96,13 +96,13 @@ Prueba el sistema en vivo:
 
 ## 📂 Estructura del Proyecto
 
-
+```bash
 /project-root
 │── /client (Frontend - Vue)
 │── /server (Backend - Node)
 │── /database
 │── package.json
-
+```
 
 ---
 
